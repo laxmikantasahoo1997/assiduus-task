@@ -1,0 +1,11 @@
+.table__container > thead > tr th,
+.table__container > thead > tr td,
+.table__container > tbody > tr th,
+.table__container > tbody > tr td {
+  border-bottom: none;
+  padding: 11px;
+}
+.table__container > thead > tr th {
+  opacity: 0.5;
+  font-weight: bold;
+}

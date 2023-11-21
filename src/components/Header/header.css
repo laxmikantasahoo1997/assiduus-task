@@ -1,0 +1,6 @@
+.header .menu__container > fieldset {
+  display: none;
+}
+.header {
+  box-shadow: none !important;
+}

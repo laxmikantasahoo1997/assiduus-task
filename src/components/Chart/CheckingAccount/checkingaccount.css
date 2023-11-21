@@ -1,0 +1,7 @@
+/* Add this CSS to your stylesheet */
+.x-axis-labels path {
+  display: none;
+}
+.y-axis-labels path {
+  display: none;
+}
